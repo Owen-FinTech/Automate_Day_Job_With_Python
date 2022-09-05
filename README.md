@@ -1,4 +1,4 @@
-# Python Challenge: Automate Your Day Job with Python
+# Automate Your Day Job with Python
 
 This repo contains scripts and supplementary files for 2 projects:
 
